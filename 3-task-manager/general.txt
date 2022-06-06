@@ -1,0 +1,2 @@
+nodetaskmanager - eOpFQ3dEv2shEwgY
+MONGO_URI = mongodb+srv://nodetaskmanager:eOpFQ3dEv2shEwgY@task-manager.o3mm6.mongodb.net/task-manager?retryWrites=true&w=majority

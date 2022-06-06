@@ -1,0 +1,9 @@
+username - mongodbms
+pwd - Gqv4PrEEerg09p4K
+
+mongoose.connect(MONGO_URL, {
+    useNewUrlParser: true,
+    useFindAndModify: false,
+    useCreateIndex: true,
+    useUnifiedTopology: true,
+  })
